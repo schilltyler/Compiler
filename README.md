@@ -8,3 +8,8 @@ https://dev.to/mr-3/os-development-the-truth-1cc2
 
 ### Steps
 1. Make a bootloader
+
+### Notes
+- use QEMU
+- RISC-V has a standard, so could use this
+
